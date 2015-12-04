@@ -1,0 +1,15 @@
+﻿Build started 2015-11-13 15:43:44.
+     1>Project "D:\VS2013\_Projekty\Test_SFML - Copy\Test_SFML\Test_SFML.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /I"D:\VS2013\_Biblioteki\SFML-2.3.2-windows-vc12-32-bit\SFML-2.3.2\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\vs2013\_projekty\test_sfml - copy\test_sfml\main.cpp(79): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\vs2013\_projekty\test_sfml - copy\test_sfml\main.cpp(137): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VS2013\_Projekty\Test_SFML - Copy\Debug\Test_SFML.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\VS2013\_Biblioteki\SFML-2.3.2-windows-vc12-32-bit\SFML-2.3.2\lib" "sfml-audio-d.lib" "sfml-graphics-d.lib" "sfml-main-d.lib" "sfml-network-d.lib" "sfml-system-d.lib" "sfml-window-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\VS2013\_Projekty\Test_SFML - Copy\Debug\Test_SFML.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VS2013\_Projekty\Test_SFML - Copy\Debug\Test_SFML.lib" /MACHINE:X86 Debug\main.obj
+         Test_SFML.vcxproj -> D:\VS2013\_Projekty\Test_SFML - Copy\Debug\Test_SFML.exe
+     1>Done Building Project "D:\VS2013\_Projekty\Test_SFML - Copy\Test_SFML\Test_SFML.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.34
